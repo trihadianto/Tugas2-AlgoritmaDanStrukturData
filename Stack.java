@@ -134,6 +134,6 @@ public class Stack {
 
 /**
  *
- * @author Dava Febrian 
+ * @author Tri Hadianto
  */
 
